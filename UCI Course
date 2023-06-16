@@ -1,0 +1,33 @@
+https://www.ics.uci.edu/~irani/w17-6D/courseinfo.html
+
+Course Information: ICS 6D Discrete Math for Computer Science Winter 2017
+Instructor: Prof. Sandy Irani
+Office: DBH 4042
+Office Hours: Tues 11:30AM-12:30PM, Friday 10:00AM-10:50AM
+Email: irani@ics.uci.edu
+
+
+Discrete mathematics provides the language and abstractions required to reason about many concepts in computer science. 
+Most topics studied in a high school mathematics curriculum (such algebra, trigonomtry, and calculus) are concerned with 
+continuous phenomena. These subjects form the foundation for the physical sciences and engineering. Discrete mathematics, 
+on the other hand, underlies the science and technology of the computer age. Discrete mathematics is concerned with 
+mathematical structures that are composed of distinct pieces or processes that are composed of individual steps. 
+Since the native language of computers is expressed in binary (0's and 1's), it is natural that the formalism 
+we use to describe them is discrete mathematics.
+
+In this course, you will learn the mathematical tools to solve certain classes of problems, such as how to prove a 
+recursive algorithm computes the correct value, how to encode messages using commonly used cryptographic protocols,
+or how to calculate the probability of events in discrete structures. In addition, you will expand your mathematical 
+language so that when you encounter new problems in computer science, you will have the tools to describe, analyze 
+and understand those problems.
+
+
+
+
+
+
+
+
+
+
+
